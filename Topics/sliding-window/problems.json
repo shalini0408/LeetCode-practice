@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-10-23T20:35:28.187Z",
+  "updatedAt": "2026-10-23T20:35:32.926Z",
   "problems": [
     {
       "frontendId": "3",
@@ -24,6 +24,26 @@
           "path": "0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.java",
           "sha": "a1adbc92ed9200c7bf56d77c07aef2df832de765",
           "lastSyncedAt": "2026-10-23T20:29:38.370Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "643",
+      "title": "Maximum Average Subarray I",
+      "slug": "maximum-average-subarray-i",
+      "problemName": "0643-maximum-average-subarray-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-average-subarray-i/",
+      "folderPath": "0643-maximum-average-subarray-i/",
+      "readmePath": "0643-maximum-average-subarray-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0643-maximum-average-subarray-i.py",
+          "path": "0643-maximum-average-subarray-i/0643-maximum-average-subarray-i.py",
+          "sha": "e574c860f1dbfc90e08f70860e933738d770fe60",
+          "lastSyncedAt": "2026-10-23T20:35:32.926Z"
         }
       ]
     },

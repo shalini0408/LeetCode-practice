@@ -5,7 +5,7 @@
     "name": "Longest Increasing Subsequence",
     "tagId": "122079"
   },
-  "updatedAt": "2026-10-23T20:29:05.214Z",
+  "updatedAt": "2026-10-23T20:36:00.405Z",
   "problems": [
     {
       "frontendId": "300",
@@ -24,6 +24,26 @@
           "path": "0300-longest-increasing-subsequence/0300-longest-increasing-subsequence.py",
           "sha": "e2908b4a73bc3f417ce80fbb0537061f0145d83a",
           "lastSyncedAt": "2026-10-23T20:29:05.214Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "334",
+      "title": "Increasing Triplet Subsequence",
+      "slug": "increasing-triplet-subsequence",
+      "problemName": "0334-increasing-triplet-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/increasing-triplet-subsequence/",
+      "folderPath": "0334-increasing-triplet-subsequence/",
+      "readmePath": "0334-increasing-triplet-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0334-increasing-triplet-subsequence.py",
+          "path": "0334-increasing-triplet-subsequence/0334-increasing-triplet-subsequence.py",
+          "sha": "414c12d44e59055f8a47d57f7ae18ad46a104d98",
+          "lastSyncedAt": "2026-10-23T20:36:00.405Z"
         }
       ]
     }

@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-23T20:40:47.498Z",
+  "updatedAt": "2026-10-23T20:40:55.638Z",
   "problems": [
     {
       "frontendId": "15",
@@ -124,6 +124,26 @@
           "path": "0169-majority-element/0169-majority-element.py",
           "sha": "b970d88978a993ef122d7f873c7523b77257cd29",
           "lastSyncedAt": "2026-10-23T20:37:39.527Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "215",
+      "title": "Kth Largest Element in an Array",
+      "slug": "kth-largest-element-in-an-array",
+      "problemName": "0215-kth-largest-element-in-an-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+      "folderPath": "0215-kth-largest-element-in-an-array/",
+      "readmePath": "0215-kth-largest-element-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0215-kth-largest-element-in-an-array.py",
+          "path": "0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.py",
+          "sha": "a1e81e475f0e18801db8c8d43f0c14be49dc1e27",
+          "lastSyncedAt": "2026-10-23T20:40:55.638Z"
         }
       ]
     },

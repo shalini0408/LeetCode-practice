@@ -5,8 +5,28 @@
     "name": "Quickselect",
     "tagId": "61069"
   },
-  "updatedAt": "2026-10-23T20:32:30.608Z",
+  "updatedAt": "2026-10-23T20:40:55.638Z",
   "problems": [
+    {
+      "frontendId": "215",
+      "title": "Kth Largest Element in an Array",
+      "slug": "kth-largest-element-in-an-array",
+      "problemName": "0215-kth-largest-element-in-an-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+      "folderPath": "0215-kth-largest-element-in-an-array/",
+      "readmePath": "0215-kth-largest-element-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0215-kth-largest-element-in-an-array.py",
+          "path": "0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.py",
+          "sha": "a1e81e475f0e18801db8c8d43f0c14be49dc1e27",
+          "lastSyncedAt": "2026-10-23T20:40:55.638Z"
+        }
+      ]
+    },
     {
       "frontendId": "347",
       "title": "Top K Frequent Elements",

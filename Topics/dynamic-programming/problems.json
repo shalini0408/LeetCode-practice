@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-23T20:30:08.482Z",
+  "updatedAt": "2026-10-23T20:33:53.132Z",
   "problems": [
     {
       "frontendId": "62",
@@ -204,6 +204,26 @@
           "path": "0746-min-cost-climbing-stairs/0746-min-cost-climbing-stairs.py",
           "sha": "b0b4b7f237430ac0ad46104cafb3b0908e06ddd3",
           "lastSyncedAt": "2026-10-23T20:29:54.090Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1372",
+      "title": "Longest ZigZag Path in a Binary Tree",
+      "slug": "longest-zigzag-path-in-a-binary-tree",
+      "problemName": "1372-longest-zigzag-path-in-a-binary-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/",
+      "folderPath": "1372-longest-zigzag-path-in-a-binary-tree/",
+      "readmePath": "1372-longest-zigzag-path-in-a-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1372-longest-zigzag-path-in-a-binary-tree.java",
+          "path": "1372-longest-zigzag-path-in-a-binary-tree/1372-longest-zigzag-path-in-a-binary-tree.java",
+          "sha": "a15973226473f1c025b796d81122a815ca869945",
+          "lastSyncedAt": "2026-10-23T20:33:53.132Z"
         }
       ]
     }

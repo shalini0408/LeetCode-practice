@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-23T20:38:03.262Z",
+  "updatedAt": "2026-10-23T20:38:19.291Z",
   "problems": [
     {
       "frontendId": "15",
@@ -64,6 +64,26 @@
           "path": "0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.py",
           "sha": "5765c4b52f34aa3cc74ab18750d79ba754c7371e",
           "lastSyncedAt": "2026-10-23T20:36:36.369Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "31",
+      "title": "Next Permutation",
+      "slug": "next-permutation",
+      "problemName": "0031-next-permutation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/next-permutation/",
+      "folderPath": "0031-next-permutation/",
+      "readmePath": "0031-next-permutation/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0031-next-permutation.py",
+          "path": "0031-next-permutation/0031-next-permutation.py",
+          "sha": "ad90ae0190980cdafd51cf1754b47c78941b4565",
+          "lastSyncedAt": "2026-10-23T20:38:19.291Z"
         }
       ]
     },

@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-23T20:43:13.461Z",
+  "updatedAt": "2026-10-23T20:43:53.252Z",
   "problems": [
     {
       "frontendId": "2",
@@ -24,6 +24,26 @@
           "path": "0002-add-two-numbers/0002-add-two-numbers.py",
           "sha": "fbaee34c41d675bcee16387b7235282f7cfa9e42",
           "lastSyncedAt": "2026-10-23T20:39:03.415Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "7",
+      "title": "Reverse Integer",
+      "slug": "reverse-integer",
+      "problemName": "0007-reverse-integer",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-integer/",
+      "folderPath": "0007-reverse-integer/",
+      "readmePath": "0007-reverse-integer/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0007-reverse-integer.c",
+          "path": "0007-reverse-integer/0007-reverse-integer.c",
+          "sha": "8045927196abc6ca2a20f8d762fce2d697c404ba",
+          "lastSyncedAt": "2026-10-23T20:43:53.252Z"
         }
       ]
     },

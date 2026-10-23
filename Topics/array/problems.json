@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T20:41:41.165Z",
+  "updatedAt": "2026-10-23T20:41:45.904Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1024,6 +1024,26 @@
           "path": "0746-min-cost-climbing-stairs/0746-min-cost-climbing-stairs.py",
           "sha": "b0b4b7f237430ac0ad46104cafb3b0908e06ddd3",
           "lastSyncedAt": "2026-10-23T20:29:54.090Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "881",
+      "title": "Boats to Save People",
+      "slug": "boats-to-save-people",
+      "problemName": "0881-boats-to-save-people",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/boats-to-save-people/",
+      "folderPath": "0881-boats-to-save-people/",
+      "readmePath": "0881-boats-to-save-people/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0881-boats-to-save-people.py",
+          "path": "0881-boats-to-save-people/0881-boats-to-save-people.py",
+          "sha": "8d3f8c47ad1ccefd4d9cf5c24f83fb0b583700eb",
+          "lastSyncedAt": "2026-10-23T20:41:45.904Z"
         }
       ]
     },

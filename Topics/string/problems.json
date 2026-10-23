@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-23T20:39:36.792Z",
+  "updatedAt": "2026-10-23T20:39:45.611Z",
   "problems": [
     {
       "frontendId": "3",
@@ -264,6 +264,26 @@
           "path": "1456-maximum-number-of-vowels-in-a-substring-of-given-length/1456-maximum-number-of-vowels-in-a-substring-of-given-length.py",
           "sha": "db42df9d8bb2e5c3345b8de3ff928e1c98d5afb7",
           "lastSyncedAt": "2026-10-23T20:35:28.187Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1768",
+      "title": "Merge Strings Alternately",
+      "slug": "merge-strings-alternately",
+      "problemName": "1768-merge-strings-alternately",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-strings-alternately/",
+      "folderPath": "1768-merge-strings-alternately/",
+      "readmePath": "1768-merge-strings-alternately/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1768-merge-strings-alternately.py",
+          "path": "1768-merge-strings-alternately/1768-merge-strings-alternately.py",
+          "sha": "43d8489f1bbd707f51762733f60da9f9d0316d2a",
+          "lastSyncedAt": "2026-10-23T20:39:45.611Z"
         }
       ]
     },

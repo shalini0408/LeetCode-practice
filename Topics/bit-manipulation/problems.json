@@ -5,8 +5,28 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-23T20:37:52.547Z",
+  "updatedAt": "2026-10-23T20:38:46.933Z",
   "problems": [
+    {
+      "frontendId": "231",
+      "title": "Power of Two",
+      "slug": "power-of-two",
+      "problemName": "0231-power-of-two",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/power-of-two/",
+      "folderPath": "0231-power-of-two/",
+      "readmePath": "0231-power-of-two/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0231-power-of-two.py",
+          "path": "0231-power-of-two/0231-power-of-two.py",
+          "sha": "21489fb5792df9312f6694e2c59013bb9b033876",
+          "lastSyncedAt": "2026-10-23T20:38:46.933Z"
+        }
+      ]
+    },
     {
       "frontendId": "287",
       "title": "Find the Duplicate Number",

@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-10-23T20:30:50.112Z",
+  "updatedAt": "2026-10-23T20:32:08.746Z",
   "problems": [
     {
       "frontendId": "130",
@@ -44,6 +44,26 @@
           "path": "0417-pacific-atlantic-water-flow/0417-pacific-atlantic-water-flow.py",
           "sha": "bf78fceb003bbd580db0fa49e76eaf8a07f956fe",
           "lastSyncedAt": "2026-10-23T20:30:50.112Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "994",
+      "title": "Rotting Oranges",
+      "slug": "rotting-oranges",
+      "problemName": "0994-rotting-oranges",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotting-oranges/",
+      "folderPath": "0994-rotting-oranges/",
+      "readmePath": "0994-rotting-oranges/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0994-rotting-oranges.py",
+          "path": "0994-rotting-oranges/0994-rotting-oranges.py",
+          "sha": "5200d8f4cd802250159ecf522a48f167ff2ae6ec",
+          "lastSyncedAt": "2026-10-23T20:32:08.746Z"
         }
       ]
     }

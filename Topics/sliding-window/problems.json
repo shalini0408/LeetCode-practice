@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-10-23T20:35:32.926Z",
+  "updatedAt": "2026-10-23T20:40:47.498Z",
   "problems": [
     {
       "frontendId": "3",
@@ -24,6 +24,26 @@
           "path": "0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.java",
           "sha": "a1adbc92ed9200c7bf56d77c07aef2df832de765",
           "lastSyncedAt": "2026-10-23T20:29:38.370Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "594",
+      "title": "Longest Harmonious Subsequence",
+      "slug": "longest-harmonious-subsequence",
+      "problemName": "0594-longest-harmonious-subsequence",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-harmonious-subsequence/",
+      "folderPath": "0594-longest-harmonious-subsequence/",
+      "readmePath": "0594-longest-harmonious-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0594-longest-harmonious-subsequence.py",
+          "path": "0594-longest-harmonious-subsequence/0594-longest-harmonious-subsequence.py",
+          "sha": "95045d19d745e7bd57255f35a8896fc0e5f68e2c",
+          "lastSyncedAt": "2026-10-23T20:40:47.498Z"
         }
       ]
     },

@@ -5,8 +5,28 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-23T20:24:44.127Z",
+  "updatedAt": "2026-10-23T20:25:17.265Z",
   "problems": [
+    {
+      "frontendId": "3",
+      "title": "Longest Substring Without Repeating Characters",
+      "slug": "longest-substring-without-repeating-characters",
+      "problemName": "0003-longest-substring-without-repeating-characters",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+      "folderPath": "0003-longest-substring-without-repeating-characters/",
+      "readmePath": "0003-longest-substring-without-repeating-characters/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0003-longest-substring-without-repeating-characters.java",
+          "path": "0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.java",
+          "sha": "a1adbc92ed9200c7bf56d77c07aef2df832de765",
+          "lastSyncedAt": "2026-10-23T20:25:17.265Z"
+        }
+      ]
+    },
     {
       "frontendId": "139",
       "title": "Word Break",

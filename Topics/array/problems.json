@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T20:24:39.996Z",
+  "updatedAt": "2026-10-23T20:24:44.127Z",
   "problems": [
     {
       "frontendId": "33",
@@ -24,6 +24,26 @@
           "path": "0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.py",
           "sha": "923d2e12d3076ced23997c3c3f57d131814462c9",
           "lastSyncedAt": "2026-10-23T20:24:07.882Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "139",
+      "title": "Word Break",
+      "slug": "word-break",
+      "problemName": "0139-word-break",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/word-break/",
+      "folderPath": "0139-word-break/",
+      "readmePath": "0139-word-break/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0139-word-break.py",
+          "path": "0139-word-break/0139-word-break.py",
+          "sha": "2dcf16a4189de2e0616562fdc3133934fd28e23d",
+          "lastSyncedAt": "2026-10-23T20:24:44.127Z"
         }
       ]
     },

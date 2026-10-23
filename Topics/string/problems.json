@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-23T20:41:33.574Z",
+  "updatedAt": "2026-10-23T20:42:14.754Z",
   "problems": [
     {
       "frontendId": "3",
@@ -404,6 +404,26 @@
           "path": "1657-determine-if-two-strings-are-close/1657-determine-if-two-strings-are-close.py",
           "sha": "53be7a264dc9be6897b462a3d0a92857646d95bd",
           "lastSyncedAt": "2026-10-23T20:41:20.590Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1662",
+      "title": "Check If Two String Arrays are Equivalent",
+      "slug": "check-if-two-string-arrays-are-equivalent",
+      "problemName": "1662-check-if-two-string-arrays-are-equivalent",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/",
+      "folderPath": "1662-check-if-two-string-arrays-are-equivalent/",
+      "readmePath": "1662-check-if-two-string-arrays-are-equivalent/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1662-check-if-two-string-arrays-are-equivalent.py",
+          "path": "1662-check-if-two-string-arrays-are-equivalent/1662-check-if-two-string-arrays-are-equivalent.py",
+          "sha": "7b143102bc46c52a4f252d710b2a956db8602cc0",
+          "lastSyncedAt": "2026-10-23T20:42:14.754Z"
         }
       ]
     },

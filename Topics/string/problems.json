@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-23T20:34:36.841Z",
+  "updatedAt": "2026-10-23T20:34:49.234Z",
   "problems": [
     {
       "frontendId": "3",
@@ -144,6 +144,26 @@
           "path": "0649-dota2-senate/0649-dota2-senate.java",
           "sha": "6cafe3db92b17c5397420ba95a294b20651945f3",
           "lastSyncedAt": "2026-10-23T20:34:28.383Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2390",
+      "title": "Removing Stars From a String",
+      "slug": "removing-stars-from-a-string",
+      "problemName": "2390-removing-stars-from-a-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/removing-stars-from-a-string/",
+      "folderPath": "2390-removing-stars-from-a-string/",
+      "readmePath": "2390-removing-stars-from-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2390-removing-stars-from-a-string.java",
+          "path": "2390-removing-stars-from-a-string/2390-removing-stars-from-a-string.java",
+          "sha": "fe623ffeb76e8a948f9b59400952cc64bb06972f",
+          "lastSyncedAt": "2026-10-23T20:34:49.234Z"
         }
       ]
     }

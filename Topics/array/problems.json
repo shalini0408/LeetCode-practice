@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T20:36:00.405Z",
+  "updatedAt": "2026-10-23T20:36:14.783Z",
   "problems": [
     {
       "frontendId": "33",
@@ -344,6 +344,26 @@
           "path": "0560-subarray-sum-equals-k/0560-subarray-sum-equals-k.java",
           "sha": "bd4afc09158258e7ce03cfa6ee4fd3b39e3740fa",
           "lastSyncedAt": "2026-10-23T20:29:42.320Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "605",
+      "title": "Can Place Flowers",
+      "slug": "can-place-flowers",
+      "problemName": "0605-can-place-flowers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/can-place-flowers/",
+      "folderPath": "0605-can-place-flowers/",
+      "readmePath": "0605-can-place-flowers/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0605-can-place-flowers.py",
+          "path": "0605-can-place-flowers/0605-can-place-flowers.py",
+          "sha": "9fb6b434d812b8c56b8ee1e35fc530449f4c6b1b",
+          "lastSyncedAt": "2026-10-23T20:36:14.783Z"
         }
       ]
     },

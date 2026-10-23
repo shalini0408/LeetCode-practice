@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T20:35:06.644Z",
+  "updatedAt": "2026-10-23T20:35:11.085Z",
   "problems": [
     {
       "frontendId": "33",
@@ -424,6 +424,26 @@
           "path": "0997-find-the-town-judge/0997-find-the-town-judge.py",
           "sha": "f84325725c337ced9376713946f14f66167400ee",
           "lastSyncedAt": "2026-10-23T20:33:01.095Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1732",
+      "title": "Find the Highest Altitude",
+      "slug": "find-the-highest-altitude",
+      "problemName": "1732-find-the-highest-altitude",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-highest-altitude/",
+      "folderPath": "1732-find-the-highest-altitude/",
+      "readmePath": "1732-find-the-highest-altitude/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1732-find-the-highest-altitude.py",
+          "path": "1732-find-the-highest-altitude/1732-find-the-highest-altitude.py",
+          "sha": "5e0ceede04e61b72bd55c1f016b6ba0df88730a4",
+          "lastSyncedAt": "2026-10-23T20:35:11.085Z"
         }
       ]
     },

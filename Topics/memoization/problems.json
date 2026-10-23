@@ -5,7 +5,7 @@
     "name": "Memoization",
     "tagId": "33"
   },
-  "updatedAt": "2026-10-23T20:29:17.344Z",
+  "updatedAt": "2026-10-23T20:29:59.043Z",
   "problems": [
     {
       "frontendId": "139",
@@ -24,6 +24,26 @@
           "path": "0139-word-break/0139-word-break.py",
           "sha": "2dcf16a4189de2e0616562fdc3133934fd28e23d",
           "lastSyncedAt": "2026-10-23T20:29:17.344Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "509",
+      "title": "Fibonacci Number",
+      "slug": "fibonacci-number",
+      "problemName": "0509-fibonacci-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fibonacci-number/",
+      "folderPath": "0509-fibonacci-number/",
+      "readmePath": "0509-fibonacci-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0509-fibonacci-number.py",
+          "path": "0509-fibonacci-number/0509-fibonacci-number.py",
+          "sha": "dd63497b78a88723e126b816c0d27877b004ef86",
+          "lastSyncedAt": "2026-10-23T20:29:59.043Z"
         }
       ]
     }

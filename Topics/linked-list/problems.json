@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-23T20:34:18.722Z",
+  "updatedAt": "2026-10-23T20:34:21.988Z",
   "problems": [
     {
       "frontendId": "206",
@@ -44,6 +44,26 @@
           "path": "0328-odd-even-linked-list/0328-odd-even-linked-list.java",
           "sha": "a6419fc6a1cb251a6cf4700cc1bbb6d73299aa34",
           "lastSyncedAt": "2026-10-23T20:34:18.722Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2095",
+      "title": "Delete the Middle Node of a Linked List",
+      "slug": "delete-the-middle-node-of-a-linked-list",
+      "problemName": "2095-delete-the-middle-node-of-a-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/",
+      "folderPath": "2095-delete-the-middle-node-of-a-linked-list/",
+      "readmePath": "2095-delete-the-middle-node-of-a-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2095-delete-the-middle-node-of-a-linked-list.java",
+          "path": "2095-delete-the-middle-node-of-a-linked-list/2095-delete-the-middle-node-of-a-linked-list.java",
+          "sha": "f91fb568c10f6882764cbfa8cf04e8f34130710f",
+          "lastSyncedAt": "2026-10-23T20:34:21.988Z"
         }
       ]
     }

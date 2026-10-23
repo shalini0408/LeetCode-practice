@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-10-23T20:34:07.023Z",
+  "updatedAt": "2026-10-23T20:42:33.658Z",
   "problems": [
     {
       "frontendId": "100",
@@ -384,6 +384,26 @@
           "path": "1372-longest-zigzag-path-in-a-binary-tree/1372-longest-zigzag-path-in-a-binary-tree.java",
           "sha": "a15973226473f1c025b796d81122a815ca869945",
           "lastSyncedAt": "2026-10-23T20:33:53.132Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1379",
+      "title": "Find a Corresponding Node of a Binary Tree in a Clone of That Tree",
+      "slug": "find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree",
+      "problemName": "1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/",
+      "folderPath": "1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/",
+      "readmePath": "1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.py",
+          "path": "1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.py",
+          "sha": "41f4fcd03fe2c2d02c28a79732074a27113177ef",
+          "lastSyncedAt": "2026-10-23T20:42:33.658Z"
         }
       ]
     },

@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-23T20:32:55.212Z",
+  "updatedAt": "2026-10-23T20:33:01.095Z",
   "problems": [
     {
       "frontendId": "3",
@@ -184,6 +184,26 @@
           "path": "0560-subarray-sum-equals-k/0560-subarray-sum-equals-k.java",
           "sha": "bd4afc09158258e7ce03cfa6ee4fd3b39e3740fa",
           "lastSyncedAt": "2026-10-23T20:29:42.320Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "997",
+      "title": "Find the Town Judge",
+      "slug": "find-the-town-judge",
+      "problemName": "0997-find-the-town-judge",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-town-judge/",
+      "folderPath": "0997-find-the-town-judge/",
+      "readmePath": "0997-find-the-town-judge/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0997-find-the-town-judge.py",
+          "path": "0997-find-the-town-judge/0997-find-the-town-judge.py",
+          "sha": "f84325725c337ced9376713946f14f66167400ee",
+          "lastSyncedAt": "2026-10-23T20:33:01.095Z"
         }
       ]
     }

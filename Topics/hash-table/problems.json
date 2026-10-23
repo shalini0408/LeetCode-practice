@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-23T20:40:21.491Z",
+  "updatedAt": "2026-10-23T20:40:47.498Z",
   "problems": [
     {
       "frontendId": "1",
@@ -324,6 +324,26 @@
           "path": "0560-subarray-sum-equals-k/0560-subarray-sum-equals-k.java",
           "sha": "bd4afc09158258e7ce03cfa6ee4fd3b39e3740fa",
           "lastSyncedAt": "2026-10-23T20:29:42.320Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "594",
+      "title": "Longest Harmonious Subsequence",
+      "slug": "longest-harmonious-subsequence",
+      "problemName": "0594-longest-harmonious-subsequence",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-harmonious-subsequence/",
+      "folderPath": "0594-longest-harmonious-subsequence/",
+      "readmePath": "0594-longest-harmonious-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0594-longest-harmonious-subsequence.py",
+          "path": "0594-longest-harmonious-subsequence/0594-longest-harmonious-subsequence.py",
+          "sha": "95045d19d745e7bd57255f35a8896fc0e5f68e2c",
+          "lastSyncedAt": "2026-10-23T20:40:47.498Z"
         }
       ]
     },

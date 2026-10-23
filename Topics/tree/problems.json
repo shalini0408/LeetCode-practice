@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-10-23T20:33:38.828Z",
+  "updatedAt": "2026-10-23T20:33:45.588Z",
   "problems": [
     {
       "frontendId": "100",
@@ -104,6 +104,26 @@
           "path": "0112-path-sum/0112-path-sum.py",
           "sha": "7b618c0e6fef531f4a48a89377e8c34565cc53bf",
           "lastSyncedAt": "2026-10-23T20:30:56.925Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "199",
+      "title": "Binary Tree Right Side View",
+      "slug": "binary-tree-right-side-view",
+      "problemName": "0199-binary-tree-right-side-view",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-right-side-view/",
+      "folderPath": "0199-binary-tree-right-side-view/",
+      "readmePath": "0199-binary-tree-right-side-view/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0199-binary-tree-right-side-view.java",
+          "path": "0199-binary-tree-right-side-view/0199-binary-tree-right-side-view.java",
+          "sha": "bf410e8aaf3c151ec3c6aaf3297e6e20c311c097",
+          "lastSyncedAt": "2026-10-23T20:33:45.588Z"
         }
       ]
     },

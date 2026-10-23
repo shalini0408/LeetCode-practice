@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-10-23T20:29:38.370Z",
+  "updatedAt": "2026-10-23T20:35:15.552Z",
   "problems": [
     {
       "frontendId": "3",
@@ -24,6 +24,26 @@
           "path": "0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.java",
           "sha": "a1adbc92ed9200c7bf56d77c07aef2df832de765",
           "lastSyncedAt": "2026-10-23T20:29:38.370Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1493",
+      "title": "Longest Subarray of 1's After Deleting One Element",
+      "slug": "longest-subarray-of-1s-after-deleting-one-element",
+      "problemName": "1493-longest-subarray-of-1s-after-deleting-one-element",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/",
+      "folderPath": "1493-longest-subarray-of-1s-after-deleting-one-element/",
+      "readmePath": "1493-longest-subarray-of-1s-after-deleting-one-element/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1493-longest-subarray-of-1s-after-deleting-one-element.py",
+          "path": "1493-longest-subarray-of-1s-after-deleting-one-element/1493-longest-subarray-of-1s-after-deleting-one-element.py",
+          "sha": "bc7456f9fb0b3e45528f83fe9447a1855c911207",
+          "lastSyncedAt": "2026-10-23T20:35:15.552Z"
         }
       ]
     }

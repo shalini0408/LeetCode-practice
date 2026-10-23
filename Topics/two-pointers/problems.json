@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-23T20:36:26.497Z",
+  "updatedAt": "2026-10-23T20:36:31.926Z",
   "problems": [
     {
       "frontendId": "15",
@@ -24,6 +24,26 @@
           "path": "0015-3sum/0015-3sum.py",
           "sha": "5d414d5062bd6ff7da97b53d2fca59f0fa08221c",
           "lastSyncedAt": "2026-10-23T20:36:26.497Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "61",
+      "title": "Rotate List",
+      "slug": "rotate-list",
+      "problemName": "0061-rotate-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-list/",
+      "folderPath": "0061-rotate-list/",
+      "readmePath": "0061-rotate-list/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0061-rotate-list.py",
+          "path": "0061-rotate-list/0061-rotate-list.py",
+          "sha": "2c8ab5eab0bb32bd49a60de82aab7385b9134cf8",
+          "lastSyncedAt": "2026-10-23T20:36:31.926Z"
         }
       ]
     },

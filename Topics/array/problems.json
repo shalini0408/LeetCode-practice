@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T20:35:02.027Z",
+  "updatedAt": "2026-10-23T20:35:06.644Z",
   "problems": [
     {
       "frontendId": "33",
@@ -304,6 +304,26 @@
           "path": "0560-subarray-sum-equals-k/0560-subarray-sum-equals-k.java",
           "sha": "bd4afc09158258e7ce03cfa6ee4fd3b39e3740fa",
           "lastSyncedAt": "2026-10-23T20:29:42.320Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "724",
+      "title": "Find Pivot Index",
+      "slug": "find-pivot-index",
+      "problemName": "0724-find-pivot-index",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-pivot-index/",
+      "folderPath": "0724-find-pivot-index/",
+      "readmePath": "0724-find-pivot-index/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0724-find-pivot-index.py",
+          "path": "0724-find-pivot-index/0724-find-pivot-index.py",
+          "sha": "3bce28bae1b01b0107e1cccb44ad89595c9adb0b",
+          "lastSyncedAt": "2026-10-23T20:35:06.644Z"
         }
       ]
     },

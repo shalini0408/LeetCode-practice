@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-23T20:35:15.552Z",
+  "updatedAt": "2026-10-23T20:35:46.013Z",
   "problems": [
     {
       "frontendId": "62",
@@ -144,6 +144,26 @@
           "path": "0377-combination-sum-iv/0377-combination-sum-iv.py",
           "sha": "975e3fc1e3506718c363743be1ee9fcbdbfc51d7",
           "lastSyncedAt": "2026-10-23T20:29:14.884Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "392",
+      "title": "Is Subsequence",
+      "slug": "is-subsequence",
+      "problemName": "0392-is-subsequence",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/is-subsequence/",
+      "folderPath": "0392-is-subsequence/",
+      "readmePath": "0392-is-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0392-is-subsequence.py",
+          "path": "0392-is-subsequence/0392-is-subsequence.py",
+          "sha": "c4ece660836ad1c23196da7f483f7f7eceed98e7",
+          "lastSyncedAt": "2026-10-23T20:35:46.013Z"
         }
       ]
     },

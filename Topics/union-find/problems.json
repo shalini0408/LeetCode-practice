@@ -5,7 +5,7 @@
     "name": "Union-Find",
     "tagId": "23"
   },
-  "updatedAt": "2026-10-23T20:30:40.230Z",
+  "updatedAt": "2026-10-23T20:32:14.790Z",
   "problems": [
     {
       "frontendId": "128",
@@ -44,6 +44,26 @@
           "path": "0130-surrounded-regions/0130-surrounded-regions.py",
           "sha": "96c15c5b5fb48e1721c920ed64edf35fa9599b9a",
           "lastSyncedAt": "2026-10-23T20:30:40.230Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "200",
+      "title": "Number of Islands",
+      "slug": "number-of-islands",
+      "problemName": "0200-number-of-islands",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-islands/",
+      "folderPath": "0200-number-of-islands/",
+      "readmePath": "0200-number-of-islands/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0200-number-of-islands.py",
+          "path": "0200-number-of-islands/0200-number-of-islands.py",
+          "sha": "646906448b4b4b4ff48ac2c775975408981065b7",
+          "lastSyncedAt": "2026-10-23T20:32:14.790Z"
         }
       ]
     }

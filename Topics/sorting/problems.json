@@ -5,8 +5,28 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-23T20:32:30.608Z",
+  "updatedAt": "2026-10-23T20:32:48.193Z",
   "problems": [
+    {
+      "frontendId": "49",
+      "title": "Group Anagrams",
+      "slug": "group-anagrams",
+      "problemName": "0049-group-anagrams",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/group-anagrams/",
+      "folderPath": "0049-group-anagrams/",
+      "readmePath": "0049-group-anagrams/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0049-group-anagrams.py",
+          "path": "0049-group-anagrams/0049-group-anagrams.py",
+          "sha": "392483c0740f8223cd4f724aab030e1a51afb91d",
+          "lastSyncedAt": "2026-10-23T20:32:48.193Z"
+        }
+      ]
+    },
     {
       "frontendId": "347",
       "title": "Top K Frequent Elements",

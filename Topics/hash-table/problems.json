@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-23T20:41:20.590Z",
+  "updatedAt": "2026-10-23T20:42:41.136Z",
   "problems": [
     {
       "frontendId": "1",
@@ -384,6 +384,26 @@
           "path": "0997-find-the-town-judge/0997-find-the-town-judge.py",
           "sha": "f84325725c337ced9376713946f14f66167400ee",
           "lastSyncedAt": "2026-10-23T20:33:01.095Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1640",
+      "title": "Check Array Formation Through Concatenation",
+      "slug": "check-array-formation-through-concatenation",
+      "problemName": "1640-check-array-formation-through-concatenation",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-array-formation-through-concatenation/",
+      "folderPath": "1640-check-array-formation-through-concatenation/",
+      "readmePath": "1640-check-array-formation-through-concatenation/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1640-check-array-formation-through-concatenation.py",
+          "path": "1640-check-array-formation-through-concatenation/1640-check-array-formation-through-concatenation.py",
+          "sha": "68efc5b00a0d2a454de3aefa32c6fe0ffc807eb1",
+          "lastSyncedAt": "2026-10-23T20:42:41.136Z"
         }
       ]
     },

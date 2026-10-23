@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-23T20:40:21.491Z",
+  "updatedAt": "2026-10-23T20:40:43.168Z",
   "problems": [
     {
       "frontendId": "3",
@@ -64,6 +64,26 @@
           "path": "0049-group-anagrams/0049-group-anagrams.py",
           "sha": "392483c0740f8223cd4f724aab030e1a51afb91d",
           "lastSyncedAt": "2026-10-23T20:32:48.193Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "71",
+      "title": "Simplify Path",
+      "slug": "simplify-path",
+      "problemName": "0071-simplify-path",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/simplify-path/",
+      "folderPath": "0071-simplify-path/",
+      "readmePath": "0071-simplify-path/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0071-simplify-path.py",
+          "path": "0071-simplify-path/0071-simplify-path.py",
+          "sha": "fae260ad0915786c245f2025376e8f2f93dd677d",
+          "lastSyncedAt": "2026-10-23T20:40:43.168Z"
         }
       ]
     },

@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T20:41:16.955Z",
+  "updatedAt": "2026-10-23T20:41:27.080Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1164,6 +1164,26 @@
           "path": "1493-longest-subarray-of-1s-after-deleting-one-element/1493-longest-subarray-of-1s-after-deleting-one-element.py",
           "sha": "bc7456f9fb0b3e45528f83fe9447a1855c911207",
           "lastSyncedAt": "2026-10-23T20:35:15.552Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1673",
+      "title": "Find the Most Competitive Subsequence",
+      "slug": "find-the-most-competitive-subsequence",
+      "problemName": "1673-find-the-most-competitive-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-most-competitive-subsequence/",
+      "folderPath": "1673-find-the-most-competitive-subsequence/",
+      "readmePath": "1673-find-the-most-competitive-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1673-find-the-most-competitive-subsequence.py",
+          "path": "1673-find-the-most-competitive-subsequence/1673-find-the-most-competitive-subsequence.py",
+          "sha": "d96b01d2515df85af2f2d498947a6885c84a629f",
+          "lastSyncedAt": "2026-10-23T20:41:27.080Z"
         }
       ]
     },

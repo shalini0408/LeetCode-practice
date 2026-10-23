@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T20:38:37.985Z",
+  "updatedAt": "2026-10-23T20:38:52.477Z",
   "problems": [
     {
       "frontendId": "1",
@@ -104,6 +104,26 @@
           "path": "0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.py",
           "sha": "923d2e12d3076ced23997c3c3f57d131814462c9",
           "lastSyncedAt": "2026-10-23T20:28:58.575Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "39",
+      "title": "Combination Sum",
+      "slug": "combination-sum",
+      "problemName": "0039-combination-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/combination-sum/",
+      "folderPath": "0039-combination-sum/",
+      "readmePath": "0039-combination-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0039-combination-sum.py",
+          "path": "0039-combination-sum/0039-combination-sum.py",
+          "sha": "58aaf477cdaa405e741559d5a8dd99635f08ab63",
+          "lastSyncedAt": "2026-10-23T20:38:52.477Z"
         }
       ]
     },

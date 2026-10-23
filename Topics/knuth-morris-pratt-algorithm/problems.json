@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "knuth-morris-pratt-algorithm",
+    "name": "Knuth–Morris–Pratt Algorithm",
+    "tagId": "122018"
+  },
+  "updatedAt": "2026-10-23T20:43:34.796Z",
+  "problems": [
+    {
+      "frontendId": "28",
+      "title": "Find the Index of the First Occurrence in a String",
+      "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+      "problemName": "0028-find-the-index-of-the-first-occurrence-in-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+      "folderPath": "0028-find-the-index-of-the-first-occurrence-in-a-string/",
+      "readmePath": "0028-find-the-index-of-the-first-occurrence-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0028-find-the-index-of-the-first-occurrence-in-a-string.py",
+          "path": "0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.py",
+          "sha": "48d560e02a62f02c15d43bfe3f5703c989b5ddd7",
+          "lastSyncedAt": "2026-10-23T20:43:34.796Z"
+        }
+      ]
+    }
+  ]
+}

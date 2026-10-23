@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-23T20:37:21.225Z",
+  "updatedAt": "2026-10-23T20:37:31.164Z",
   "problems": [
     {
       "frontendId": "1",
@@ -184,6 +184,26 @@
           "path": "0160-intersection-of-two-linked-lists/0160-intersection-of-two-linked-lists.py",
           "sha": "be23df6f5e78df938aa449467e1e727205bdcac0",
           "lastSyncedAt": "2026-10-23T20:36:58.618Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "229",
+      "title": "Majority Element II",
+      "slug": "majority-element-ii",
+      "problemName": "0229-majority-element-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element-ii/",
+      "folderPath": "0229-majority-element-ii/",
+      "readmePath": "0229-majority-element-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0229-majority-element-ii.py",
+          "path": "0229-majority-element-ii/0229-majority-element-ii.py",
+          "sha": "5ffaed3bf1c6e06a9164418a44f7fe04a8f7b6ee",
+          "lastSyncedAt": "2026-10-23T20:37:31.164Z"
         }
       ]
     },

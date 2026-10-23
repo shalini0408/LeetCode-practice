@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T20:29:54.090Z",
+  "updatedAt": "2026-10-23T20:30:40.230Z",
   "problems": [
     {
       "frontendId": "33",
@@ -44,6 +44,26 @@
           "path": "0128-longest-consecutive-sequence/0128-longest-consecutive-sequence.java",
           "sha": "267e11ced344efdb591fbeb7f474eeeb95351a34",
           "lastSyncedAt": "2026-10-23T20:29:48.232Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "130",
+      "title": "Surrounded Regions",
+      "slug": "surrounded-regions",
+      "problemName": "0130-surrounded-regions",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/surrounded-regions/",
+      "folderPath": "0130-surrounded-regions/",
+      "readmePath": "0130-surrounded-regions/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0130-surrounded-regions.py",
+          "path": "0130-surrounded-regions/0130-surrounded-regions.py",
+          "sha": "96c15c5b5fb48e1721c920ed64edf35fa9599b9a",
+          "lastSyncedAt": "2026-10-23T20:30:40.230Z"
         }
       ]
     },

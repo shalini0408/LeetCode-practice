@@ -5,8 +5,28 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-10-23T20:30:50.112Z",
+  "updatedAt": "2026-10-23T20:30:56.925Z",
   "problems": [
+    {
+      "frontendId": "112",
+      "title": "Path Sum",
+      "slug": "path-sum",
+      "problemName": "0112-path-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/path-sum/",
+      "folderPath": "0112-path-sum/",
+      "readmePath": "0112-path-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0112-path-sum.py",
+          "path": "0112-path-sum/0112-path-sum.py",
+          "sha": "7b618c0e6fef531f4a48a89377e8c34565cc53bf",
+          "lastSyncedAt": "2026-10-23T20:30:56.925Z"
+        }
+      ]
+    },
     {
       "frontendId": "130",
       "title": "Surrounded Regions",

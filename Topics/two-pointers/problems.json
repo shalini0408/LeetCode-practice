@@ -5,8 +5,28 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-23T20:35:46.013Z",
+  "updatedAt": "2026-10-23T20:35:51.293Z",
   "problems": [
+    {
+      "frontendId": "283",
+      "title": "Move Zeroes",
+      "slug": "move-zeroes",
+      "problemName": "0283-move-zeroes",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/move-zeroes/",
+      "folderPath": "0283-move-zeroes/",
+      "readmePath": "0283-move-zeroes/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0283-move-zeroes.py",
+          "path": "0283-move-zeroes/0283-move-zeroes.py",
+          "sha": "f75499ace54788a03cd311f61e7cca7b1c0dd7f0",
+          "lastSyncedAt": "2026-10-23T20:35:51.293Z"
+        }
+      ]
+    },
     {
       "frontendId": "392",
       "title": "Is Subsequence",

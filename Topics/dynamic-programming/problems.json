@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-23T20:33:53.132Z",
+  "updatedAt": "2026-10-23T20:35:15.552Z",
   "problems": [
     {
       "frontendId": "62",
@@ -224,6 +224,26 @@
           "path": "1372-longest-zigzag-path-in-a-binary-tree/1372-longest-zigzag-path-in-a-binary-tree.java",
           "sha": "a15973226473f1c025b796d81122a815ca869945",
           "lastSyncedAt": "2026-10-23T20:33:53.132Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1493",
+      "title": "Longest Subarray of 1's After Deleting One Element",
+      "slug": "longest-subarray-of-1s-after-deleting-one-element",
+      "problemName": "1493-longest-subarray-of-1s-after-deleting-one-element",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/",
+      "folderPath": "1493-longest-subarray-of-1s-after-deleting-one-element/",
+      "readmePath": "1493-longest-subarray-of-1s-after-deleting-one-element/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1493-longest-subarray-of-1s-after-deleting-one-element.py",
+          "path": "1493-longest-subarray-of-1s-after-deleting-one-element/1493-longest-subarray-of-1s-after-deleting-one-element.py",
+          "sha": "bc7456f9fb0b3e45528f83fe9447a1855c911207",
+          "lastSyncedAt": "2026-10-23T20:35:15.552Z"
         }
       ]
     }

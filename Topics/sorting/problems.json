@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-23T20:41:20.590Z",
+  "updatedAt": "2026-10-23T20:41:45.904Z",
   "problems": [
     {
       "frontendId": "15",
@@ -264,6 +264,26 @@
           "path": "0594-longest-harmonious-subsequence/0594-longest-harmonious-subsequence.py",
           "sha": "95045d19d745e7bd57255f35a8896fc0e5f68e2c",
           "lastSyncedAt": "2026-10-23T20:40:47.498Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "881",
+      "title": "Boats to Save People",
+      "slug": "boats-to-save-people",
+      "problemName": "0881-boats-to-save-people",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/boats-to-save-people/",
+      "folderPath": "0881-boats-to-save-people/",
+      "readmePath": "0881-boats-to-save-people/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0881-boats-to-save-people.py",
+          "path": "0881-boats-to-save-people/0881-boats-to-save-people.py",
+          "sha": "8d3f8c47ad1ccefd4d9cf5c24f83fb0b583700eb",
+          "lastSyncedAt": "2026-10-23T20:41:45.904Z"
         }
       ]
     },

@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-23T20:40:01.270Z",
+  "updatedAt": "2026-10-23T20:42:24.527Z",
   "problems": [
     {
       "frontendId": "78",
@@ -84,6 +84,26 @@
           "path": "0287-find-the-duplicate-number/0287-find-the-duplicate-number.py",
           "sha": "739aff0daffeea556782082b45d72cfcb1d16eea",
           "lastSyncedAt": "2026-10-23T20:37:52.547Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "526",
+      "title": "Beautiful Arrangement",
+      "slug": "beautiful-arrangement",
+      "problemName": "0526-beautiful-arrangement",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/beautiful-arrangement/",
+      "folderPath": "0526-beautiful-arrangement/",
+      "readmePath": "0526-beautiful-arrangement/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0526-beautiful-arrangement.py",
+          "path": "0526-beautiful-arrangement/0526-beautiful-arrangement.py",
+          "sha": "8696f5513cc082ace418cba99a4c5d6a2b4ab612",
+          "lastSyncedAt": "2026-10-23T20:42:24.527Z"
         }
       ]
     }

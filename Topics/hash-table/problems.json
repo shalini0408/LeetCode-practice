@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-23T20:33:01.095Z",
+  "updatedAt": "2026-10-23T20:34:54.708Z",
   "problems": [
     {
       "frontendId": "3",
@@ -204,6 +204,26 @@
           "path": "0997-find-the-town-judge/0997-find-the-town-judge.py",
           "sha": "f84325725c337ced9376713946f14f66167400ee",
           "lastSyncedAt": "2026-10-23T20:33:01.095Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2352",
+      "title": "Equal Row and Column Pairs",
+      "slug": "equal-row-and-column-pairs",
+      "problemName": "2352-equal-row-and-column-pairs",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/equal-row-and-column-pairs/",
+      "folderPath": "2352-equal-row-and-column-pairs/",
+      "readmePath": "2352-equal-row-and-column-pairs/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2352-equal-row-and-column-pairs.java",
+          "path": "2352-equal-row-and-column-pairs/2352-equal-row-and-column-pairs.java",
+          "sha": "821c3db7a2417782a9b9c9cf70d395d4a94191d6",
+          "lastSyncedAt": "2026-10-23T20:34:54.708Z"
         }
       ]
     }

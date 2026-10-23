@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-23T20:40:55.638Z",
+  "updatedAt": "2026-10-23T20:41:20.590Z",
   "problems": [
     {
       "frontendId": "15",
@@ -264,6 +264,26 @@
           "path": "0594-longest-harmonious-subsequence/0594-longest-harmonious-subsequence.py",
           "sha": "95045d19d745e7bd57255f35a8896fc0e5f68e2c",
           "lastSyncedAt": "2026-10-23T20:40:47.498Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1657",
+      "title": "Determine if Two Strings Are Close",
+      "slug": "determine-if-two-strings-are-close",
+      "problemName": "1657-determine-if-two-strings-are-close",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/determine-if-two-strings-are-close/",
+      "folderPath": "1657-determine-if-two-strings-are-close/",
+      "readmePath": "1657-determine-if-two-strings-are-close/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1657-determine-if-two-strings-are-close.py",
+          "path": "1657-determine-if-two-strings-are-close/1657-determine-if-two-strings-are-close.py",
+          "sha": "53be7a264dc9be6897b462a3d0a92857646d95bd",
+          "lastSyncedAt": "2026-10-23T20:41:20.590Z"
         }
       ]
     },

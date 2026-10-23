@@ -5,8 +5,28 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-10-23T20:34:49.234Z",
+  "updatedAt": "2026-10-23T20:36:51.460Z",
   "problems": [
+    {
+      "frontendId": "234",
+      "title": "Palindrome Linked List",
+      "slug": "palindrome-linked-list",
+      "problemName": "0234-palindrome-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-linked-list/",
+      "folderPath": "0234-palindrome-linked-list/",
+      "readmePath": "0234-palindrome-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0234-palindrome-linked-list.py",
+          "path": "0234-palindrome-linked-list/0234-palindrome-linked-list.py",
+          "sha": "3eeea2f0db424dd55f329100341b78b4915f5618",
+          "lastSyncedAt": "2026-10-23T20:36:51.460Z"
+        }
+      ]
+    },
     {
       "frontendId": "394",
       "title": "Decode String",

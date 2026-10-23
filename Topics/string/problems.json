@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-23T20:35:46.013Z",
+  "updatedAt": "2026-10-23T20:35:56.008Z",
   "problems": [
     {
       "frontendId": "3",
@@ -144,6 +144,26 @@
           "path": "0394-decode-string/0394-decode-string.java",
           "sha": "b74451ba79306da68b0acd8b3b03ac705d128a4a",
           "lastSyncedAt": "2026-10-23T20:34:36.841Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "443",
+      "title": "String Compression",
+      "slug": "string-compression",
+      "problemName": "0443-string-compression",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/string-compression/",
+      "folderPath": "0443-string-compression/",
+      "readmePath": "0443-string-compression/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0443-string-compression.py",
+          "path": "0443-string-compression/0443-string-compression.py",
+          "sha": "27c47ee6591604e0d2aecf14750e819cb02f7cb6",
+          "lastSyncedAt": "2026-10-23T20:35:56.008Z"
         }
       ]
     },

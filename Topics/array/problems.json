@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T20:35:51.293Z",
+  "updatedAt": "2026-10-23T20:36:00.405Z",
   "problems": [
     {
       "frontendId": "33",
@@ -224,6 +224,26 @@
           "path": "0322-coin-change/0322-coin-change.py",
           "sha": "068d527b4559bcb6e9e33e0a1dfc02b580cbfd44",
           "lastSyncedAt": "2026-10-23T20:29:31.803Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "334",
+      "title": "Increasing Triplet Subsequence",
+      "slug": "increasing-triplet-subsequence",
+      "problemName": "0334-increasing-triplet-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/increasing-triplet-subsequence/",
+      "folderPath": "0334-increasing-triplet-subsequence/",
+      "readmePath": "0334-increasing-triplet-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0334-increasing-triplet-subsequence.py",
+          "path": "0334-increasing-triplet-subsequence/0334-increasing-triplet-subsequence.py",
+          "sha": "414c12d44e59055f8a47d57f7ae18ad46a104d98",
+          "lastSyncedAt": "2026-10-23T20:36:00.405Z"
         }
       ]
     },

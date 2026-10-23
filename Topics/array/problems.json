@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T20:36:36.369Z",
+  "updatedAt": "2026-10-23T20:36:40.589Z",
   "problems": [
     {
       "frontendId": "15",
@@ -364,6 +364,26 @@
           "path": "0417-pacific-atlantic-water-flow/0417-pacific-atlantic-water-flow.py",
           "sha": "bf78fceb003bbd580db0fa49e76eaf8a07f956fe",
           "lastSyncedAt": "2026-10-23T20:30:50.112Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "485",
+      "title": "Max Consecutive Ones",
+      "slug": "max-consecutive-ones",
+      "problemName": "0485-max-consecutive-ones",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones/",
+      "folderPath": "0485-max-consecutive-ones/",
+      "readmePath": "0485-max-consecutive-ones/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0485-max-consecutive-ones.py",
+          "path": "0485-max-consecutive-ones/0485-max-consecutive-ones.py",
+          "sha": "11c53c33acec02e8324d96d53c4b8cf7169ce803",
+          "lastSyncedAt": "2026-10-23T20:36:40.589Z"
         }
       ]
     },

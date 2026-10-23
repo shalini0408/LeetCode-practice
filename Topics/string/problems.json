@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-23T20:34:28.383Z",
+  "updatedAt": "2026-10-23T20:34:36.841Z",
   "problems": [
     {
       "frontendId": "3",
@@ -104,6 +104,26 @@
           "path": "0242-valid-anagram/0242-valid-anagram.py",
           "sha": "1d65f7f0d8c21e50cb3bc15148acf7761ce17398",
           "lastSyncedAt": "2026-10-23T20:32:55.212Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "394",
+      "title": "Decode String",
+      "slug": "decode-string",
+      "problemName": "0394-decode-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/decode-string/",
+      "folderPath": "0394-decode-string/",
+      "readmePath": "0394-decode-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0394-decode-string.java",
+          "path": "0394-decode-string/0394-decode-string.java",
+          "sha": "b74451ba79306da68b0acd8b3b03ac705d128a4a",
+          "lastSyncedAt": "2026-10-23T20:34:36.841Z"
         }
       ]
     },

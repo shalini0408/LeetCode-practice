@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-23T20:29:17.344Z",
+  "updatedAt": "2026-10-23T20:29:26.544Z",
   "problems": [
     {
       "frontendId": "62",
@@ -23,7 +23,7 @@
           "filename": "0062-unique-paths.py",
           "path": "0062-unique-paths/0062-unique-paths.py",
           "sha": "ad0416b7b541ddc0896391ee3a728ecf2f4701ff",
-          "lastSyncedAt": "2026-10-23T20:24:59.177Z"
+          "lastSyncedAt": "2026-10-23T20:29:26.544Z"
         }
       ]
     },

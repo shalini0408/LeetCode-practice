@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-23T20:41:33.574Z",
+  "updatedAt": "2026-10-23T20:42:24.527Z",
   "problems": [
     {
       "frontendId": "5",
@@ -344,6 +344,26 @@
           "path": "0509-fibonacci-number/0509-fibonacci-number.py",
           "sha": "dd63497b78a88723e126b816c0d27877b004ef86",
           "lastSyncedAt": "2026-10-23T20:29:59.043Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "526",
+      "title": "Beautiful Arrangement",
+      "slug": "beautiful-arrangement",
+      "problemName": "0526-beautiful-arrangement",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/beautiful-arrangement/",
+      "folderPath": "0526-beautiful-arrangement/",
+      "readmePath": "0526-beautiful-arrangement/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0526-beautiful-arrangement.py",
+          "path": "0526-beautiful-arrangement/0526-beautiful-arrangement.py",
+          "sha": "8696f5513cc082ace418cba99a4c5d6a2b4ab612",
+          "lastSyncedAt": "2026-10-23T20:42:24.527Z"
         }
       ]
     },

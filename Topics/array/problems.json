@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T20:29:10.108Z",
+  "updatedAt": "2026-10-23T20:29:14.884Z",
   "problems": [
     {
       "frontendId": "33",
@@ -163,7 +163,7 @@
           "filename": "0377-combination-sum-iv.py",
           "path": "0377-combination-sum-iv/0377-combination-sum-iv.py",
           "sha": "975e3fc1e3506718c363743be1ee9fcbdbfc51d7",
-          "lastSyncedAt": "2026-10-23T20:24:39.996Z"
+          "lastSyncedAt": "2026-10-23T20:29:14.884Z"
         }
       ]
     },

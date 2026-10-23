@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-10-23T20:33:53.132Z",
+  "updatedAt": "2026-10-23T20:34:01.290Z",
   "problems": [
     {
       "frontendId": "100",
@@ -164,6 +164,26 @@
           "path": "0236-lowest-common-ancestor-of-a-binary-tree/0236-lowest-common-ancestor-of-a-binary-tree.py",
           "sha": "951dfade341268a23c124b93717e270b2d192cae",
           "lastSyncedAt": "2026-10-23T20:31:19.863Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "437",
+      "title": "Path Sum III",
+      "slug": "path-sum-iii",
+      "problemName": "0437-path-sum-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/path-sum-iii/",
+      "folderPath": "0437-path-sum-iii/",
+      "readmePath": "0437-path-sum-iii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0437-path-sum-iii.java",
+          "path": "0437-path-sum-iii/0437-path-sum-iii.java",
+          "sha": "0ee7037fedc745de7fe7e8c94991e00acdb9e473",
+          "lastSyncedAt": "2026-10-23T20:34:01.290Z"
         }
       ]
     },

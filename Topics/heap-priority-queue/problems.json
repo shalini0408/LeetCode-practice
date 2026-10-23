@@ -5,8 +5,28 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-10-23T20:30:24.105Z",
+  "updatedAt": "2026-10-23T20:32:30.608Z",
   "problems": [
+    {
+      "frontendId": "347",
+      "title": "Top K Frequent Elements",
+      "slug": "top-k-frequent-elements",
+      "problemName": "0347-top-k-frequent-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-elements/",
+      "folderPath": "0347-top-k-frequent-elements/",
+      "readmePath": "0347-top-k-frequent-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0347-top-k-frequent-elements.py",
+          "path": "0347-top-k-frequent-elements/0347-top-k-frequent-elements.py",
+          "sha": "7109a0c331415311edefd24befd5f3abe07f7eaf",
+          "lastSyncedAt": "2026-10-23T20:32:30.608Z"
+        }
+      ]
+    },
     {
       "frontendId": "743",
       "title": "Network Delay Time",

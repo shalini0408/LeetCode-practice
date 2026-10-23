@@ -1,5 +1,7 @@
 # LeetCode-practice
 <!---LeetCode Topics Start-->
+<img width="900" height="1602" alt="Badge" src="https://github.com/user-attachments/assets/3a56da2b-91d4-497f-973b-1617145b842e" />
+
 # LeetCode Topics
 ## Array
 |  |

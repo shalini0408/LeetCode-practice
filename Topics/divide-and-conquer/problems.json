@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-23T20:38:23.587Z",
+  "updatedAt": "2026-10-23T20:40:01.270Z",
   "problems": [
     {
       "frontendId": "53",
@@ -44,6 +44,26 @@
           "path": "0169-majority-element/0169-majority-element.py",
           "sha": "b970d88978a993ef122d7f873c7523b77257cd29",
           "lastSyncedAt": "2026-10-23T20:37:39.527Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "191",
+      "title": "Number of 1 Bits",
+      "slug": "number-of-1-bits",
+      "problemName": "0191-number-of-1-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-1-bits/",
+      "folderPath": "0191-number-of-1-bits/",
+      "readmePath": "0191-number-of-1-bits/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0191-number-of-1-bits.java",
+          "path": "0191-number-of-1-bits/0191-number-of-1-bits.java",
+          "sha": "8207738cdf7162352b769249390ec4e6d716f052",
+          "lastSyncedAt": "2026-10-23T20:40:01.270Z"
         }
       ]
     },

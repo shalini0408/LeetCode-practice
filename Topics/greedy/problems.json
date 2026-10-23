@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-23T20:36:00.405Z",
+  "updatedAt": "2026-10-23T20:36:14.783Z",
   "problems": [
     {
       "frontendId": "334",
@@ -24,6 +24,26 @@
           "path": "0334-increasing-triplet-subsequence/0334-increasing-triplet-subsequence.py",
           "sha": "414c12d44e59055f8a47d57f7ae18ad46a104d98",
           "lastSyncedAt": "2026-10-23T20:36:00.405Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "605",
+      "title": "Can Place Flowers",
+      "slug": "can-place-flowers",
+      "problemName": "0605-can-place-flowers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/can-place-flowers/",
+      "folderPath": "0605-can-place-flowers/",
+      "readmePath": "0605-can-place-flowers/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0605-can-place-flowers.py",
+          "path": "0605-can-place-flowers/0605-can-place-flowers.py",
+          "sha": "9fb6b434d812b8c56b8ee1e35fc530449f4c6b1b",
+          "lastSyncedAt": "2026-10-23T20:36:14.783Z"
         }
       ]
     },

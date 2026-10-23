@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T20:42:14.754Z",
+  "updatedAt": "2026-10-23T20:42:19.336Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1184,6 +1184,26 @@
           "path": "1493-longest-subarray-of-1s-after-deleting-one-element/1493-longest-subarray-of-1s-after-deleting-one-element.py",
           "sha": "bc7456f9fb0b3e45528f83fe9447a1855c911207",
           "lastSyncedAt": "2026-10-23T20:35:15.552Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1539",
+      "title": "Kth Missing Positive Number",
+      "slug": "kth-missing-positive-number",
+      "problemName": "1539-kth-missing-positive-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-missing-positive-number/",
+      "folderPath": "1539-kth-missing-positive-number/",
+      "readmePath": "1539-kth-missing-positive-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1539-kth-missing-positive-number.py",
+          "path": "1539-kth-missing-positive-number/1539-kth-missing-positive-number.py",
+          "sha": "eb723d3de0ad5b0d919c1bb15e3b39125906cd05",
+          "lastSyncedAt": "2026-10-23T20:42:19.336Z"
         }
       ]
     },

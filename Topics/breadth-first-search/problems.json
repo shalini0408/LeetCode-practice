@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "breadth-first-search",
+    "name": "Breadth-First Search",
+    "tagId": "22"
+  },
+  "updatedAt": "2026-10-23T20:25:07.213Z",
+  "problems": [
+    {
+      "frontendId": "322",
+      "title": "Coin Change",
+      "slug": "coin-change",
+      "problemName": "0322-coin-change",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/coin-change/",
+      "folderPath": "0322-coin-change/",
+      "readmePath": "0322-coin-change/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0322-coin-change.py",
+          "path": "0322-coin-change/0322-coin-change.py",
+          "sha": "068d527b4559bcb6e9e33e0a1dfc02b580cbfd44",
+          "lastSyncedAt": "2026-10-23T20:25:07.213Z"
+        }
+      ]
+    }
+  ]
+}

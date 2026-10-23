@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "array",
+    "name": "Array",
+    "tagId": "5"
+  },
+  "updatedAt": "2026-10-23T20:24:07.882Z",
+  "problems": [
+    {
+      "frontendId": "33",
+      "title": "Search in Rotated Sorted Array",
+      "slug": "search-in-rotated-sorted-array",
+      "problemName": "0033-search-in-rotated-sorted-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+      "folderPath": "0033-search-in-rotated-sorted-array/",
+      "readmePath": "0033-search-in-rotated-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0033-search-in-rotated-sorted-array.py",
+          "path": "0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.py",
+          "sha": "923d2e12d3076ced23997c3c3f57d131814462c9",
+          "lastSyncedAt": "2026-10-23T20:24:07.882Z"
+        }
+      ]
+    }
+  ]
+}

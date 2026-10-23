@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-23T20:42:24.527Z",
+  "updatedAt": "2026-10-23T20:43:09.139Z",
   "problems": [
     {
       "frontendId": "78",
@@ -84,6 +84,26 @@
           "path": "0287-find-the-duplicate-number/0287-find-the-duplicate-number.py",
           "sha": "739aff0daffeea556782082b45d72cfcb1d16eea",
           "lastSyncedAt": "2026-10-23T20:37:52.547Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "338",
+      "title": "Counting Bits",
+      "slug": "counting-bits",
+      "problemName": "0338-counting-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/counting-bits/",
+      "folderPath": "0338-counting-bits/",
+      "readmePath": "0338-counting-bits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0338-counting-bits.cpp",
+          "path": "0338-counting-bits/0338-counting-bits.cpp",
+          "sha": "16eeb7826b30c46adfc8b8adea319bef8cf0dfca",
+          "lastSyncedAt": "2026-10-23T20:43:09.139Z"
         }
       ]
     },

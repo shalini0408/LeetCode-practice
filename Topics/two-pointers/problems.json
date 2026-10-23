@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-23T20:41:45.904Z",
+  "updatedAt": "2026-10-23T20:42:58.092Z",
   "problems": [
     {
       "frontendId": "5",
@@ -64,6 +64,26 @@
           "path": "0015-3sum/0015-3sum.py",
           "sha": "5d414d5062bd6ff7da97b53d2fca59f0fa08221c",
           "lastSyncedAt": "2026-10-23T20:36:26.497Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "18",
+      "title": "4Sum",
+      "slug": "4sum",
+      "problemName": "0018-4sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/4sum/",
+      "folderPath": "0018-4sum/",
+      "readmePath": "0018-4sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0018-4sum.py",
+          "path": "0018-4sum/0018-4sum.py",
+          "sha": "e14b431b92e95890fc6efc9002cb4432e639f58d",
+          "lastSyncedAt": "2026-10-23T20:42:58.092Z"
         }
       ]
     },

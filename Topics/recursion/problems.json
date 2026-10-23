@@ -5,8 +5,28 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-10-23T20:36:51.460Z",
+  "updatedAt": "2026-10-23T20:37:11.925Z",
   "problems": [
+    {
+      "frontendId": "21",
+      "title": "Merge Two Sorted Lists",
+      "slug": "merge-two-sorted-lists",
+      "problemName": "0021-merge-two-sorted-lists",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-two-sorted-lists/",
+      "folderPath": "0021-merge-two-sorted-lists/",
+      "readmePath": "0021-merge-two-sorted-lists/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0021-merge-two-sorted-lists.py",
+          "path": "0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.py",
+          "sha": "d5f301d13bec5b272659312e61aa279db873bb71",
+          "lastSyncedAt": "2026-10-23T20:37:11.925Z"
+        }
+      ]
+    },
     {
       "frontendId": "206",
       "title": "Reverse Linked List",

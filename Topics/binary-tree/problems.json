@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-10-23T20:33:25.547Z",
+  "updatedAt": "2026-10-23T20:33:33.005Z",
   "problems": [
     {
       "frontendId": "100",
@@ -184,6 +184,26 @@
           "path": "0543-diameter-of-binary-tree/0543-diameter-of-binary-tree.py",
           "sha": "71fcb9a69e4bd75ec73f88a6fb93331c5d8dc45e",
           "lastSyncedAt": "2026-10-23T20:31:12.218Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "700",
+      "title": "Search in a Binary Search Tree",
+      "slug": "search-in-a-binary-search-tree",
+      "problemName": "0700-search-in-a-binary-search-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/search-in-a-binary-search-tree/",
+      "folderPath": "0700-search-in-a-binary-search-tree/",
+      "readmePath": "0700-search-in-a-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0700-search-in-a-binary-search-tree.java",
+          "path": "0700-search-in-a-binary-search-tree/0700-search-in-a-binary-search-tree.java",
+          "sha": "a20a7f381fa89d43c639c9ec42c9abb70b229b3a",
+          "lastSyncedAt": "2026-10-23T20:33:33.005Z"
         }
       ]
     }

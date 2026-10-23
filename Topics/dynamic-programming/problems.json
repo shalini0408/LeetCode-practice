@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-23T20:38:23.587Z",
+  "updatedAt": "2026-10-23T20:38:37.985Z",
   "problems": [
     {
       "frontendId": "53",
@@ -84,6 +84,26 @@
           "path": "0118-pascals-triangle/0118-pascals-triangle.py",
           "sha": "ebc0f824aa19e138e1f0cc0c367c52cbc287e5ea",
           "lastSyncedAt": "2026-10-23T20:38:15.088Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "121",
+      "title": "Best Time to Buy and Sell Stock",
+      "slug": "best-time-to-buy-and-sell-stock",
+      "problemName": "0121-best-time-to-buy-and-sell-stock",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+      "folderPath": "0121-best-time-to-buy-and-sell-stock/",
+      "readmePath": "0121-best-time-to-buy-and-sell-stock/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0121-best-time-to-buy-and-sell-stock.py",
+          "path": "0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.py",
+          "sha": "68b80e6c4eff906ab5d30dab8e711250c4844be9",
+          "lastSyncedAt": "2026-10-23T20:38:37.985Z"
         }
       ]
     },

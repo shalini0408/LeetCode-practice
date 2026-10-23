@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-23T20:29:26.544Z",
+  "updatedAt": "2026-10-23T20:29:59.043Z",
   "problems": [
     {
       "frontendId": "62",
@@ -24,6 +24,26 @@
           "path": "0062-unique-paths/0062-unique-paths.py",
           "sha": "ad0416b7b541ddc0896391ee3a728ecf2f4701ff",
           "lastSyncedAt": "2026-10-23T20:29:26.544Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "509",
+      "title": "Fibonacci Number",
+      "slug": "fibonacci-number",
+      "problemName": "0509-fibonacci-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fibonacci-number/",
+      "folderPath": "0509-fibonacci-number/",
+      "readmePath": "0509-fibonacci-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0509-fibonacci-number.py",
+          "path": "0509-fibonacci-number/0509-fibonacci-number.py",
+          "sha": "dd63497b78a88723e126b816c0d27877b004ef86",
+          "lastSyncedAt": "2026-10-23T20:29:59.043Z"
         }
       ]
     }

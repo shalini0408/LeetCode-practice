@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "graph",
+    "name": "Graph Theory",
+    "tagId": "24"
+  },
+  "updatedAt": "2026-10-23T20:30:24.105Z",
+  "problems": [
+    {
+      "frontendId": "743",
+      "title": "Network Delay Time",
+      "slug": "network-delay-time",
+      "problemName": "0743-network-delay-time",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/network-delay-time/",
+      "folderPath": "0743-network-delay-time/",
+      "readmePath": "0743-network-delay-time/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0743-network-delay-time.py",
+          "path": "0743-network-delay-time/0743-network-delay-time.py",
+          "sha": "502897c3b9a017eb63140a3d7d1229a374ccf22c",
+          "lastSyncedAt": "2026-10-23T20:30:24.105Z"
+        }
+      ]
+    }
+  ]
+}

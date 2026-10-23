@@ -5,8 +5,28 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-23T20:40:05.549Z",
+  "updatedAt": "2026-10-23T20:43:23.528Z",
   "problems": [
+    {
+      "frontendId": "182",
+      "title": "Duplicate Emails",
+      "slug": "duplicate-emails",
+      "problemName": "0182-duplicate-emails",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/duplicate-emails/",
+      "folderPath": "0182-duplicate-emails/",
+      "readmePath": "0182-duplicate-emails/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0182-duplicate-emails.sql",
+          "path": "0182-duplicate-emails/0182-duplicate-emails.sql",
+          "sha": "364c5e62cab21cd7df129c05d56f2394ce1e2121",
+          "lastSyncedAt": "2026-10-23T20:43:23.528Z"
+        }
+      ]
+    },
     {
       "frontendId": "197",
       "title": "Rising Temperature",

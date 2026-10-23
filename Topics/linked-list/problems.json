@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-23T20:39:03.415Z",
+  "updatedAt": "2026-10-23T20:41:10.246Z",
   "problems": [
     {
       "frontendId": "2",
@@ -84,6 +84,26 @@
           "path": "0061-rotate-list/0061-rotate-list.py",
           "sha": "2c8ab5eab0bb32bd49a60de82aab7385b9134cf8",
           "lastSyncedAt": "2026-10-23T20:36:31.926Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "141",
+      "title": "Linked List Cycle",
+      "slug": "linked-list-cycle",
+      "problemName": "0141-linked-list-cycle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle/",
+      "folderPath": "0141-linked-list-cycle/",
+      "readmePath": "0141-linked-list-cycle/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0141-linked-list-cycle.py",
+          "path": "0141-linked-list-cycle/0141-linked-list-cycle.py",
+          "sha": "c988be56e8f83c57f3fdca0087130cdcf66f595b",
+          "lastSyncedAt": "2026-10-23T20:41:10.246Z"
         }
       ]
     },

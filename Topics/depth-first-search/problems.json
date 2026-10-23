@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-10-23T20:32:01.653Z",
+  "updatedAt": "2026-10-23T20:32:14.790Z",
   "problems": [
     {
       "frontendId": "100",
@@ -104,6 +104,26 @@
           "path": "0133-clone-graph/0133-clone-graph.py",
           "sha": "f04a0f9f8d73c2bc6c594b8f4d7c1cc5bd41396f",
           "lastSyncedAt": "2026-10-23T20:32:01.653Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "200",
+      "title": "Number of Islands",
+      "slug": "number-of-islands",
+      "problemName": "0200-number-of-islands",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-islands/",
+      "folderPath": "0200-number-of-islands/",
+      "readmePath": "0200-number-of-islands/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0200-number-of-islands.py",
+          "path": "0200-number-of-islands/0200-number-of-islands.py",
+          "sha": "646906448b4b4b4ff48ac2c775975408981065b7",
+          "lastSyncedAt": "2026-10-23T20:32:14.790Z"
         }
       ]
     },

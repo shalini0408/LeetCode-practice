@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T20:32:08.746Z",
+  "updatedAt": "2026-10-23T20:32:14.790Z",
   "problems": [
     {
       "frontendId": "33",
@@ -104,6 +104,26 @@
           "path": "0198-house-robber/0198-house-robber.py",
           "sha": "21468356c862f868faf5642eb29cfa5d160c1269",
           "lastSyncedAt": "2026-10-23T20:29:51.864Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "200",
+      "title": "Number of Islands",
+      "slug": "number-of-islands",
+      "problemName": "0200-number-of-islands",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-islands/",
+      "folderPath": "0200-number-of-islands/",
+      "readmePath": "0200-number-of-islands/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0200-number-of-islands.py",
+          "path": "0200-number-of-islands/0200-number-of-islands.py",
+          "sha": "646906448b4b4b4ff48ac2c775975408981065b7",
+          "lastSyncedAt": "2026-10-23T20:32:14.790Z"
         }
       ]
     },

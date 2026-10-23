@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T20:40:25.852Z",
+  "updatedAt": "2026-10-23T20:40:30.277Z",
   "problems": [
     {
       "frontendId": "1",
@@ -244,6 +244,26 @@
           "path": "0056-merge-intervals/0056-merge-intervals.py",
           "sha": "200612112f1b01ff2dae889c82713acbf26ecee0",
           "lastSyncedAt": "2026-10-23T20:38:08.286Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "66",
+      "title": "Plus One",
+      "slug": "plus-one",
+      "problemName": "0066-plus-one",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/plus-one/",
+      "folderPath": "0066-plus-one/",
+      "readmePath": "0066-plus-one/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0066-plus-one.java",
+          "path": "0066-plus-one/0066-plus-one.java",
+          "sha": "663e74baf8752270c6ee10a3a331c16403b14f50",
+          "lastSyncedAt": "2026-10-23T20:40:30.277Z"
         }
       ]
     },

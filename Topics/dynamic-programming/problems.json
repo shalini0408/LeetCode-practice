@@ -5,8 +5,28 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-23T20:24:44.127Z",
+  "updatedAt": "2026-10-23T20:24:59.177Z",
   "problems": [
+    {
+      "frontendId": "62",
+      "title": "Unique Paths",
+      "slug": "unique-paths",
+      "problemName": "0062-unique-paths",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-paths/",
+      "folderPath": "0062-unique-paths/",
+      "readmePath": "0062-unique-paths/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0062-unique-paths.py",
+          "path": "0062-unique-paths/0062-unique-paths.py",
+          "sha": "ad0416b7b541ddc0896391ee3a728ecf2f4701ff",
+          "lastSyncedAt": "2026-10-23T20:24:59.177Z"
+        }
+      ]
+    },
     {
       "frontendId": "139",
       "title": "Word Break",

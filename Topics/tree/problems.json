@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-10-23T20:31:19.863Z",
+  "updatedAt": "2026-10-23T20:31:30.394Z",
   "problems": [
     {
       "frontendId": "110",
@@ -44,6 +44,26 @@
           "path": "0112-path-sum/0112-path-sum.py",
           "sha": "7b618c0e6fef531f4a48a89377e8c34565cc53bf",
           "lastSyncedAt": "2026-10-23T20:30:56.925Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "226",
+      "title": "Invert Binary Tree",
+      "slug": "invert-binary-tree",
+      "problemName": "0226-invert-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/invert-binary-tree/",
+      "folderPath": "0226-invert-binary-tree/",
+      "readmePath": "0226-invert-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0226-invert-binary-tree.py",
+          "path": "0226-invert-binary-tree/0226-invert-binary-tree.py",
+          "sha": "eb4c0ca961edd7e6617a7f1f99b5b0bb6b3db3a8",
+          "lastSyncedAt": "2026-10-23T20:31:30.394Z"
         }
       ]
     },

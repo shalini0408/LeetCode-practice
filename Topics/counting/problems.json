@@ -5,8 +5,28 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-10-23T20:37:31.164Z",
+  "updatedAt": "2026-10-23T20:37:39.527Z",
   "problems": [
+    {
+      "frontendId": "169",
+      "title": "Majority Element",
+      "slug": "majority-element",
+      "problemName": "0169-majority-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element/",
+      "folderPath": "0169-majority-element/",
+      "readmePath": "0169-majority-element/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0169-majority-element.py",
+          "path": "0169-majority-element/0169-majority-element.py",
+          "sha": "b970d88978a993ef122d7f873c7523b77257cd29",
+          "lastSyncedAt": "2026-10-23T20:37:39.527Z"
+        }
+      ]
+    },
     {
       "frontendId": "229",
       "title": "Majority Element II",

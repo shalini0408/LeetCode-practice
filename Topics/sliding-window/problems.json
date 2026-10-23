@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-10-23T20:35:21.456Z",
+  "updatedAt": "2026-10-23T20:35:28.187Z",
   "problems": [
     {
       "frontendId": "3",
@@ -44,6 +44,26 @@
           "path": "1004-max-consecutive-ones-iii/1004-max-consecutive-ones-iii.py",
           "sha": "ff0874fcee8abb87037b484cac5d5acae1e97067",
           "lastSyncedAt": "2026-10-23T20:35:21.456Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1456",
+      "title": "Maximum Number of Vowels in a Substring of Given Length",
+      "slug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+      "problemName": "1456-maximum-number-of-vowels-in-a-substring-of-given-length",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/",
+      "folderPath": "1456-maximum-number-of-vowels-in-a-substring-of-given-length/",
+      "readmePath": "1456-maximum-number-of-vowels-in-a-substring-of-given-length/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1456-maximum-number-of-vowels-in-a-substring-of-given-length.py",
+          "path": "1456-maximum-number-of-vowels-in-a-substring-of-given-length/1456-maximum-number-of-vowels-in-a-substring-of-given-length.py",
+          "sha": "db42df9d8bb2e5c3345b8de3ff928e1c98d5afb7",
+          "lastSyncedAt": "2026-10-23T20:35:28.187Z"
         }
       ]
     },

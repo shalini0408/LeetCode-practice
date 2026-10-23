@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-10-23T20:33:20.146Z",
+  "updatedAt": "2026-10-23T20:33:38.828Z",
   "problems": [
     {
       "frontendId": "100",
@@ -304,6 +304,26 @@
           "path": "0994-rotting-oranges/0994-rotting-oranges.py",
           "sha": "5200d8f4cd802250159ecf522a48f167ff2ae6ec",
           "lastSyncedAt": "2026-10-23T20:32:08.746Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1161",
+      "title": "Maximum Level Sum of a Binary Tree",
+      "slug": "maximum-level-sum-of-a-binary-tree",
+      "problemName": "1161-maximum-level-sum-of-a-binary-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/",
+      "folderPath": "1161-maximum-level-sum-of-a-binary-tree/",
+      "readmePath": "1161-maximum-level-sum-of-a-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1161-maximum-level-sum-of-a-binary-tree.java",
+          "path": "1161-maximum-level-sum-of-a-binary-tree/1161-maximum-level-sum-of-a-binary-tree.java",
+          "sha": "930e732c9c0ede1dae2d44c3ee7105e32ddbde8f",
+          "lastSyncedAt": "2026-10-23T20:33:38.828Z"
         }
       ]
     },

@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-23T20:35:56.008Z",
+  "updatedAt": "2026-10-23T20:36:06.224Z",
   "problems": [
     {
       "frontendId": "3",
@@ -84,6 +84,26 @@
           "path": "0139-word-break/0139-word-break.py",
           "sha": "2dcf16a4189de2e0616562fdc3133934fd28e23d",
           "lastSyncedAt": "2026-10-23T20:29:17.344Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "151",
+      "title": "Reverse Words in a String",
+      "slug": "reverse-words-in-a-string",
+      "problemName": "0151-reverse-words-in-a-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-words-in-a-string/",
+      "folderPath": "0151-reverse-words-in-a-string/",
+      "readmePath": "0151-reverse-words-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0151-reverse-words-in-a-string.py",
+          "path": "0151-reverse-words-in-a-string/0151-reverse-words-in-a-string.py",
+          "sha": "3c7218e96e39689367713da8623416e13dd838b6",
+          "lastSyncedAt": "2026-10-23T20:36:06.224Z"
         }
       ]
     },

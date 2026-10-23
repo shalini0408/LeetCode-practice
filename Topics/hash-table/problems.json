@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-23T20:34:54.708Z",
+  "updatedAt": "2026-10-23T20:35:02.027Z",
   "problems": [
     {
       "frontendId": "3",
@@ -204,6 +204,26 @@
           "path": "0997-find-the-town-judge/0997-find-the-town-judge.py",
           "sha": "f84325725c337ced9376713946f14f66167400ee",
           "lastSyncedAt": "2026-10-23T20:33:01.095Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2215",
+      "title": "Find the Difference of Two Arrays",
+      "slug": "find-the-difference-of-two-arrays",
+      "problemName": "2215-find-the-difference-of-two-arrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-difference-of-two-arrays/",
+      "folderPath": "2215-find-the-difference-of-two-arrays/",
+      "readmePath": "2215-find-the-difference-of-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2215-find-the-difference-of-two-arrays.py",
+          "path": "2215-find-the-difference-of-two-arrays/2215-find-the-difference-of-two-arrays.py",
+          "sha": "2bb6ad7daebe46b9f3654f507a065333f77c131e",
+          "lastSyncedAt": "2026-10-23T20:35:02.027Z"
         }
       ]
     },

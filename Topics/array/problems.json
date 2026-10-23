@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T20:35:32.926Z",
+  "updatedAt": "2026-10-23T20:35:38.351Z",
   "problems": [
     {
       "frontendId": "33",
@@ -484,6 +484,26 @@
           "path": "1493-longest-subarray-of-1s-after-deleting-one-element/1493-longest-subarray-of-1s-after-deleting-one-element.py",
           "sha": "bc7456f9fb0b3e45528f83fe9447a1855c911207",
           "lastSyncedAt": "2026-10-23T20:35:15.552Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1679",
+      "title": "Max Number of K-Sum Pairs",
+      "slug": "max-number-of-k-sum-pairs",
+      "problemName": "1679-max-number-of-k-sum-pairs",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/max-number-of-k-sum-pairs/",
+      "folderPath": "1679-max-number-of-k-sum-pairs/",
+      "readmePath": "1679-max-number-of-k-sum-pairs/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1679-max-number-of-k-sum-pairs.py",
+          "path": "1679-max-number-of-k-sum-pairs/1679-max-number-of-k-sum-pairs.py",
+          "sha": "6fe32156f88f1e64c6bc26c61e590cc22f7668a2",
+          "lastSyncedAt": "2026-10-23T20:35:38.351Z"
         }
       ]
     },

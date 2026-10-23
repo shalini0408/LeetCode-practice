@@ -5,8 +5,28 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-23T20:43:09.139Z",
+  "updatedAt": "2026-10-23T20:43:13.461Z",
   "problems": [
+    {
+      "frontendId": "67",
+      "title": "Add Binary",
+      "slug": "add-binary",
+      "problemName": "0067-add-binary",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-binary/",
+      "folderPath": "0067-add-binary/",
+      "readmePath": "0067-add-binary/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0067-add-binary.py",
+          "path": "0067-add-binary/0067-add-binary.py",
+          "sha": "6fa6484860dbcb4a52212a89d038407053e948a0",
+          "lastSyncedAt": "2026-10-23T20:43:13.461Z"
+        }
+      ]
+    },
     {
       "frontendId": "78",
       "title": "Subsets",

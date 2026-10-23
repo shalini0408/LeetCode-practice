@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-23T20:36:36.369Z",
+  "updatedAt": "2026-10-23T20:36:43.706Z",
   "problems": [
     {
       "frontendId": "15",
@@ -64,6 +64,26 @@
           "path": "0061-rotate-list/0061-rotate-list.py",
           "sha": "2c8ab5eab0bb32bd49a60de82aab7385b9134cf8",
           "lastSyncedAt": "2026-10-23T20:36:31.926Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "142",
+      "title": "Linked List Cycle II",
+      "slug": "linked-list-cycle-ii",
+      "problemName": "0142-linked-list-cycle-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle-ii/",
+      "folderPath": "0142-linked-list-cycle-ii/",
+      "readmePath": "0142-linked-list-cycle-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0142-linked-list-cycle-ii.py",
+          "path": "0142-linked-list-cycle-ii/0142-linked-list-cycle-ii.py",
+          "sha": "23a0449ec291c1996d3bd9b82a960a3bafbd0376",
+          "lastSyncedAt": "2026-10-23T20:36:43.706Z"
         }
       ]
     },

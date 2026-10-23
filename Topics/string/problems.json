@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-23T20:42:52.729Z",
+  "updatedAt": "2026-10-23T20:43:03.953Z",
   "problems": [
     {
       "frontendId": "3",
@@ -44,6 +44,26 @@
           "path": "0005-longest-palindromic-substring/0005-longest-palindromic-substring.py",
           "sha": "e57b6db8e3a1b21d79b1f0ec34f2d2af3e7741c6",
           "lastSyncedAt": "2026-10-23T20:41:33.574Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "17",
+      "title": "Letter Combinations of a Phone Number",
+      "slug": "letter-combinations-of-a-phone-number",
+      "problemName": "0017-letter-combinations-of-a-phone-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+      "folderPath": "0017-letter-combinations-of-a-phone-number/",
+      "readmePath": "0017-letter-combinations-of-a-phone-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0017-letter-combinations-of-a-phone-number.py",
+          "path": "0017-letter-combinations-of-a-phone-number/0017-letter-combinations-of-a-phone-number.py",
+          "sha": "2d1be683db2e82ae5d2e555a14fd21b4b99b3073",
+          "lastSyncedAt": "2026-10-23T20:43:03.953Z"
         }
       ]
     },

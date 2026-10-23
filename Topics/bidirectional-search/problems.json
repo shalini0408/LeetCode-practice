@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "bidirectional-search",
+    "name": "Bidirectional Search",
+    "tagId": "97547"
+  },
+  "updatedAt": "2026-10-23T20:30:14.817Z",
+  "problems": [
+    {
+      "frontendId": "127",
+      "title": "Word Ladder",
+      "slug": "word-ladder",
+      "problemName": "0127-word-ladder",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/word-ladder/",
+      "folderPath": "0127-word-ladder/",
+      "readmePath": "0127-word-ladder/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0127-word-ladder.py",
+          "path": "0127-word-ladder/0127-word-ladder.py",
+          "sha": "b0d2e6b0202819f14f6195423194d7164c9d7eb3",
+          "lastSyncedAt": "2026-10-23T20:30:14.817Z"
+        }
+      ]
+    }
+  ]
+}

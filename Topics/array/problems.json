@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T20:41:45.904Z",
+  "updatedAt": "2026-10-23T20:41:55.273Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1204,6 +1204,26 @@
           "path": "1646-get-maximum-in-generated-array/1646-get-maximum-in-generated-array.py",
           "sha": "fff1a97f8a352e8bbb545369480b4fc8fb43daf8",
           "lastSyncedAt": "2026-10-23T20:41:41.165Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1649",
+      "title": "Create Sorted Array through Instructions",
+      "slug": "create-sorted-array-through-instructions",
+      "problemName": "1649-create-sorted-array-through-instructions",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/create-sorted-array-through-instructions/",
+      "folderPath": "1649-create-sorted-array-through-instructions/",
+      "readmePath": "1649-create-sorted-array-through-instructions/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1649-create-sorted-array-through-instructions.py",
+          "path": "1649-create-sorted-array-through-instructions/1649-create-sorted-array-through-instructions.py",
+          "sha": "756ebf51b488e0758455f7078f052ecf207fa4b1",
+          "lastSyncedAt": "2026-10-23T20:41:55.273Z"
         }
       ]
     },

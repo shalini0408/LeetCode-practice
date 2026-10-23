@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-23T20:41:03.541Z",
+  "updatedAt": "2026-10-23T20:41:20.590Z",
   "problems": [
     {
       "frontendId": "3",
@@ -364,6 +364,26 @@
           "path": "1456-maximum-number-of-vowels-in-a-substring-of-given-length/1456-maximum-number-of-vowels-in-a-substring-of-given-length.py",
           "sha": "db42df9d8bb2e5c3345b8de3ff928e1c98d5afb7",
           "lastSyncedAt": "2026-10-23T20:35:28.187Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1657",
+      "title": "Determine if Two Strings Are Close",
+      "slug": "determine-if-two-strings-are-close",
+      "problemName": "1657-determine-if-two-strings-are-close",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/determine-if-two-strings-are-close/",
+      "folderPath": "1657-determine-if-two-strings-are-close/",
+      "readmePath": "1657-determine-if-two-strings-are-close/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1657-determine-if-two-strings-are-close.py",
+          "path": "1657-determine-if-two-strings-are-close/1657-determine-if-two-strings-are-close.py",
+          "sha": "53be7a264dc9be6897b462a3d0a92857646d95bd",
+          "lastSyncedAt": "2026-10-23T20:41:20.590Z"
         }
       ]
     },

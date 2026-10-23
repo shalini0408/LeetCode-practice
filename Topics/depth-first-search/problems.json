@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-10-23T20:34:01.290Z",
+  "updatedAt": "2026-10-23T20:34:07.023Z",
   "problems": [
     {
       "frontendId": "100",
@@ -324,6 +324,26 @@
           "path": "0841-keys-and-rooms/0841-keys-and-rooms.java",
           "sha": "7d40cc40b2e66e0747c975fd3c0e2de77b0e5051",
           "lastSyncedAt": "2026-10-23T20:33:20.146Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "872",
+      "title": "Leaf-Similar Trees",
+      "slug": "leaf-similar-trees",
+      "problemName": "0872-leaf-similar-trees",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/leaf-similar-trees/",
+      "folderPath": "0872-leaf-similar-trees/",
+      "readmePath": "0872-leaf-similar-trees/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0872-leaf-similar-trees.java",
+          "path": "0872-leaf-similar-trees/0872-leaf-similar-trees.java",
+          "sha": "f0696623bcc80007c518168f28a9c664a5e9c3c3",
+          "lastSyncedAt": "2026-10-23T20:34:07.023Z"
         }
       ]
     },

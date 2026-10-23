@@ -5,8 +5,28 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-23T20:30:08.482Z",
+  "updatedAt": "2026-10-23T20:37:48.387Z",
   "problems": [
+    {
+      "frontendId": "50",
+      "title": "Pow(x, n)",
+      "slug": "powx-n",
+      "problemName": "0050-powx-n",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/powx-n/",
+      "folderPath": "0050-powx-n/",
+      "readmePath": "0050-powx-n/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0050-powx-n.py",
+          "path": "0050-powx-n/0050-powx-n.py",
+          "sha": "45164e5386672102494e8600a77aea5366d47bfe",
+          "lastSyncedAt": "2026-10-23T20:37:48.387Z"
+        }
+      ]
+    },
     {
       "frontendId": "62",
       "title": "Unique Paths",

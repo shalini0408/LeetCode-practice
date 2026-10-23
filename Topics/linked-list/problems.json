@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-23T20:37:07.477Z",
+  "updatedAt": "2026-10-23T20:37:11.925Z",
   "problems": [
     {
       "frontendId": "19",
@@ -24,6 +24,26 @@
           "path": "0019-remove-nth-node-from-end-of-list/0019-remove-nth-node-from-end-of-list.py",
           "sha": "3f227be97e288bb312340b25828fc1b45bceace3",
           "lastSyncedAt": "2026-10-23T20:37:07.477Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "21",
+      "title": "Merge Two Sorted Lists",
+      "slug": "merge-two-sorted-lists",
+      "problemName": "0021-merge-two-sorted-lists",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-two-sorted-lists/",
+      "folderPath": "0021-merge-two-sorted-lists/",
+      "readmePath": "0021-merge-two-sorted-lists/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0021-merge-two-sorted-lists.py",
+          "path": "0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.py",
+          "sha": "d5f301d13bec5b272659312e61aa279db873bb71",
+          "lastSyncedAt": "2026-10-23T20:37:11.925Z"
         }
       ]
     },

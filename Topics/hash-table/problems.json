@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-23T20:41:10.246Z",
+  "updatedAt": "2026-10-23T20:41:20.590Z",
   "problems": [
     {
       "frontendId": "1",
@@ -384,6 +384,26 @@
           "path": "0997-find-the-town-judge/0997-find-the-town-judge.py",
           "sha": "f84325725c337ced9376713946f14f66167400ee",
           "lastSyncedAt": "2026-10-23T20:33:01.095Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1657",
+      "title": "Determine if Two Strings Are Close",
+      "slug": "determine-if-two-strings-are-close",
+      "problemName": "1657-determine-if-two-strings-are-close",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/determine-if-two-strings-are-close/",
+      "folderPath": "1657-determine-if-two-strings-are-close/",
+      "readmePath": "1657-determine-if-two-strings-are-close/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1657-determine-if-two-strings-are-close.py",
+          "path": "1657-determine-if-two-strings-are-close/1657-determine-if-two-strings-are-close.py",
+          "sha": "53be7a264dc9be6897b462a3d0a92857646d95bd",
+          "lastSyncedAt": "2026-10-23T20:41:20.590Z"
         }
       ]
     },

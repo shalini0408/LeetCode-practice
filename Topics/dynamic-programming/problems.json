@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-23T20:29:59.043Z",
+  "updatedAt": "2026-10-23T20:30:08.482Z",
   "problems": [
     {
       "frontendId": "62",
@@ -24,6 +24,26 @@
           "path": "0062-unique-paths/0062-unique-paths.py",
           "sha": "ad0416b7b541ddc0896391ee3a728ecf2f4701ff",
           "lastSyncedAt": "2026-10-23T20:29:26.544Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "70",
+      "title": "Climbing Stairs",
+      "slug": "climbing-stairs",
+      "problemName": "0070-climbing-stairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/climbing-stairs/",
+      "folderPath": "0070-climbing-stairs/",
+      "readmePath": "0070-climbing-stairs/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0070-climbing-stairs.py",
+          "path": "0070-climbing-stairs/0070-climbing-stairs.py",
+          "sha": "2b36a7cf56988635b7bfed4430e6ec8bb26e4b17",
+          "lastSyncedAt": "2026-10-23T20:30:08.482Z"
         }
       ]
     },

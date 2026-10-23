@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T20:36:19.518Z",
+  "updatedAt": "2026-10-23T20:36:26.497Z",
   "problems": [
+    {
+      "frontendId": "15",
+      "title": "3Sum",
+      "slug": "3sum",
+      "problemName": "0015-3sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum/",
+      "folderPath": "0015-3sum/",
+      "readmePath": "0015-3sum/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0015-3sum.py",
+          "path": "0015-3sum/0015-3sum.py",
+          "sha": "5d414d5062bd6ff7da97b53d2fca59f0fa08221c",
+          "lastSyncedAt": "2026-10-23T20:36:26.497Z"
+        }
+      ]
+    },
     {
       "frontendId": "33",
       "title": "Search in Rotated Sorted Array",

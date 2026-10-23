@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-10-23T20:33:12.986Z",
+  "updatedAt": "2026-10-23T20:33:20.146Z",
   "problems": [
     {
       "frontendId": "100",
@@ -264,6 +264,26 @@
           "path": "0743-network-delay-time/0743-network-delay-time.py",
           "sha": "502897c3b9a017eb63140a3d7d1229a374ccf22c",
           "lastSyncedAt": "2026-10-23T20:30:24.105Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "841",
+      "title": "Keys and Rooms",
+      "slug": "keys-and-rooms",
+      "problemName": "0841-keys-and-rooms",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/keys-and-rooms/",
+      "folderPath": "0841-keys-and-rooms/",
+      "readmePath": "0841-keys-and-rooms/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0841-keys-and-rooms.java",
+          "path": "0841-keys-and-rooms/0841-keys-and-rooms.java",
+          "sha": "7d40cc40b2e66e0747c975fd3c0e2de77b0e5051",
+          "lastSyncedAt": "2026-10-23T20:33:20.146Z"
         }
       ]
     },

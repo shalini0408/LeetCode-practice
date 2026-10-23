@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-23T20:25:07.213Z",
+  "updatedAt": "2026-10-23T20:25:43.131Z",
   "problems": [
     {
       "frontendId": "62",
@@ -44,6 +44,26 @@
           "path": "0139-word-break/0139-word-break.py",
           "sha": "2dcf16a4189de2e0616562fdc3133934fd28e23d",
           "lastSyncedAt": "2026-10-23T20:24:44.127Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "198",
+      "title": "House Robber",
+      "slug": "house-robber",
+      "problemName": "0198-house-robber",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/house-robber/",
+      "folderPath": "0198-house-robber/",
+      "readmePath": "0198-house-robber/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0198-house-robber.py",
+          "path": "0198-house-robber/0198-house-robber.py",
+          "sha": "21468356c862f868faf5642eb29cfa5d160c1269",
+          "lastSyncedAt": "2026-10-23T20:25:43.131Z"
         }
       ]
     },

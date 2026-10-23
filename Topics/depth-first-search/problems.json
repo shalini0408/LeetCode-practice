@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-10-23T20:32:23.534Z",
+  "updatedAt": "2026-10-23T20:33:12.986Z",
   "problems": [
     {
       "frontendId": "100",
@@ -264,6 +264,26 @@
           "path": "0743-network-delay-time/0743-network-delay-time.py",
           "sha": "502897c3b9a017eb63140a3d7d1229a374ccf22c",
           "lastSyncedAt": "2026-10-23T20:30:24.105Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1971",
+      "title": "Find if Path Exists in Graph",
+      "slug": "find-if-path-exists-in-graph",
+      "problemName": "1971-find-if-path-exists-in-graph",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-if-path-exists-in-graph/",
+      "folderPath": "1971-find-if-path-exists-in-graph/",
+      "readmePath": "1971-find-if-path-exists-in-graph/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1971-find-if-path-exists-in-graph.java",
+          "path": "1971-find-if-path-exists-in-graph/1971-find-if-path-exists-in-graph.java",
+          "sha": "909c07acfea79653f6188ccb7cb95d8e6f63213c",
+          "lastSyncedAt": "2026-10-23T20:33:12.986Z"
         }
       ]
     }

@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-23T20:34:54.708Z",
+  "updatedAt": "2026-10-23T20:41:41.165Z",
   "problems": [
     {
       "frontendId": "735",
@@ -24,6 +24,26 @@
           "path": "0735-asteroid-collision/0735-asteroid-collision.java",
           "sha": "b9600b8a3ff6fd5feb38970f046607ed104dbf02",
           "lastSyncedAt": "2026-10-23T20:34:42.414Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1646",
+      "title": "Get Maximum in Generated Array",
+      "slug": "get-maximum-in-generated-array",
+      "problemName": "1646-get-maximum-in-generated-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/get-maximum-in-generated-array/",
+      "folderPath": "1646-get-maximum-in-generated-array/",
+      "readmePath": "1646-get-maximum-in-generated-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1646-get-maximum-in-generated-array.py",
+          "path": "1646-get-maximum-in-generated-array/1646-get-maximum-in-generated-array.py",
+          "sha": "fff1a97f8a352e8bbb545369480b4fc8fb43daf8",
+          "lastSyncedAt": "2026-10-23T20:41:41.165Z"
         }
       ]
     },

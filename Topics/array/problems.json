@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T20:38:23.587Z",
+  "updatedAt": "2026-10-23T20:38:29.020Z",
   "problems": [
     {
       "frontendId": "1",
@@ -184,6 +184,26 @@
           "path": "0074-search-a-2d-matrix/0074-search-a-2d-matrix.py",
           "sha": "679afb5fcfbccb3e2ee088b7f8963fcbc85acc4c",
           "lastSyncedAt": "2026-10-23T20:37:25.779Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "75",
+      "title": "Sort Colors",
+      "slug": "sort-colors",
+      "problemName": "0075-sort-colors",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-colors/",
+      "folderPath": "0075-sort-colors/",
+      "readmePath": "0075-sort-colors/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0075-sort-colors.py",
+          "path": "0075-sort-colors/0075-sort-colors.py",
+          "sha": "f2d70cf9bc464c44cdaaf8c7a038e997d2237b11",
+          "lastSyncedAt": "2026-10-23T20:38:29.020Z"
         }
       ]
     },

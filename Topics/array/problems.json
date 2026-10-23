@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T20:32:48.193Z",
+  "updatedAt": "2026-10-23T20:33:01.095Z",
   "problems": [
     {
       "frontendId": "33",
@@ -364,6 +364,26 @@
           "path": "0994-rotting-oranges/0994-rotting-oranges.py",
           "sha": "5200d8f4cd802250159ecf522a48f167ff2ae6ec",
           "lastSyncedAt": "2026-10-23T20:32:08.746Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "997",
+      "title": "Find the Town Judge",
+      "slug": "find-the-town-judge",
+      "problemName": "0997-find-the-town-judge",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-town-judge/",
+      "folderPath": "0997-find-the-town-judge/",
+      "readmePath": "0997-find-the-town-judge/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0997-find-the-town-judge.py",
+          "path": "0997-find-the-town-judge/0997-find-the-town-judge.py",
+          "sha": "f84325725c337ced9376713946f14f66167400ee",
+          "lastSyncedAt": "2026-10-23T20:33:01.095Z"
         }
       ]
     }
